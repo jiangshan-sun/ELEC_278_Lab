@@ -230,6 +230,5 @@ int main() {
     bst intersection_1_2 = bst_intersection(tree1, tree2);
     bst_print(intersection_1_2);
 
-
     return 0;
 }
